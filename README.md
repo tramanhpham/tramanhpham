@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently studying at the University of Information Technology (VNUHCM)
 
-[![Spotify](https://novatorem-gold-six.vercel.app/api/spotify)](https://open.spotify.com/user/tramanhpham)
+[![Spotify](https://tramanhpham.vercel.app/api/spotify)](https://open.spotify.com/user/tramanhpham)
